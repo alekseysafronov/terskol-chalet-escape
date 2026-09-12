@@ -1,14 +1,108 @@
-# Welcome to your Lovable project
+# Terskol Retreat
+
+Создай сайт для дома посуточно в городе Терскол в Приэльбрусье.
+
+Адрес: Кабардино-Балкарская Республика, Эльбрусский р-н, с. Терскол, ул. имени К.Ш. Кулиева, 12
+
+Телефоны:
+
+89287150041
+
+89289160041
+
+Бронь дома строго по предоплате. Реквизиты для бронирования: qr-код
+
+Цены на год !
+
+30,12,26 по 08,01,27- 35000 всутки!!
+
+08,01,27 по 30,12,27- 15000 в сутки!
+
+Описание из объявления:
+
+Здрaвcтвуйтe! Дoм paсположен в сoснoвом леcу с текущим pучейком, 
+
+В дoмe ecтe всё не обxодимoе для кoмфортнoгo пpoживания, нa тepритoрии имеeтся паpковкa мангaл бесeдa, пo всем вoпрocoм обрaщaйтеcь пo нoмepу телефона будeм paды вaм помoчь! Скидкa приветствуется, 
+
+В ДОМЕ ИМЕЕТСЯ, 
+
+Полноценная кухня со всем оборудованием, 
+
+Чай!
+
+Кофе!
+
+Сахар!
+
+ТАК ЖЕ ИМЕЕТСЯ!
+
+Стиральная Машина + жидкости для стирки!
+
+Шампунь Мыло!
+
+Белье + полотенце!
+
+Фен!
+
+Утюг!
+
+Гладильная доска + сушилка!
+
+Пылесос!
+
+ДВОР! 
+
+Парковка!
+
+Беседка!
+
+Садовая мебель!
+
+Мангал! 
+
+Угли!
+
+Шампуры!
+
+Это нужно разбить на логические блоки, оформить визуально с соответствующими картинками и описать немного подробнее.
+
+В мобильной версии сайта нужно в правой нижней части зафиксировать плавающий значок сообщения, при нажатии на который будут выезжать другие значки, ведущие в чат Max, Telegram или WhatsApp с номером: +79287150041
+
+Меню будет свернуто в Гамбургер, при нажатии на который будет выезжать поле с элементами меню: фотогалерея, стоимость проживания, правила проживания, о доме, контакты, реквизиты.
+
+Реквизиты:
+
+Наименование: ИНДИВИДУАЛЬНЫЙ ПРЕДПРИНИМАТЕЛЬ СОКУРОВА АМИНАТ ШАХЫМОВНА
+
+ИНН: 072195552785
+
+ОГРНИП: 326070000003368
+
+Расчётный счёт: 40802810060640002939
+
+Банк: СТАВРОПОЛЬСКОЕ ОТДЕЛЕНИЕ N5230 ПАО СБЕРБАНК
+
+БИК банка: 040702615
+
+Корсчёт: 30101810907020000615
+
+ИНН банка: 7707083893
+
+КПП банка: 072543001
+
+Фотографии дома прикрепляю, а также QR-код с реквизитами для перевода
 
 This project was built with [Lovable](https://lovable.dev).
 
+**Live app**: https://terskol-chalet-escape.lovable.app
+
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/137de9d0-5783-4357-91c6-507cf9785824).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +114,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
